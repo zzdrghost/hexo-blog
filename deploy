@@ -1,6 +1,6 @@
 hexo generate
-cp -R public/* .deploy/zzdrghost.github.io
-cd githubio/zzdrghost.github.io
+cp -R public/* zzdrghost.github.io
+cd zzdrghost.github.io
 git add .
 git commit -m “update”
 git push origin master
