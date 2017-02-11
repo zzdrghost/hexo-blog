@@ -1,3 +1,6 @@
 [submodule "themes/yilia"]
 	path = themes/yilia
 	url = https://github.com/zzdrghost/hexo-theme-yilia.git
+[submodule "zzdrghost.github.io"]
+	path = zzdrghost.github.io
+	url = https://github.com/zzdrghost/zzdrghost.github.io.git
